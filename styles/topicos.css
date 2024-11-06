@@ -1,5 +1,5 @@
 .tópicos {
-    background: var(--vermelho);
+    background: var(--amarelo);
     text-align: center;
     padding: 1em 0;
 }
@@ -23,7 +23,7 @@
 .tópicos__link {
     color: var(--amarelo);
     padding: 1em;
-    background-color: var(--vermelho);
+    background-color: var(--amarelo);
     text-decoration: none;
     font-size: 14px;
     font-weight: 700;
